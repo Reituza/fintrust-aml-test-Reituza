@@ -15,9 +15,11 @@ const sequelize = new Sequelize(
 
 const Customer = require('./customer')(sequelize);
 const Transaction = require('./transaction')(sequelize);
+const HighRiskSuburb = require('./highRiskSuburb')(sequelize);
 
 module.exports = {
   sequelize,
   Customer,
-  Transaction
+  Transaction,
+  HighRiskSuburb
 };
