@@ -1,0 +1,201 @@
+﻿id,first_name,last_name,email,phone,id_number,registered_date,date_of_birth,address_line1,suburb,city,province,postal_code
+1,Thabo,Mabena,thabo.mabena@gmail.com,0821234567,9.20316E+12,2024/10/15,1992/03/15,12 Mandela Street,Sandton,Johannesburg,Gauteng,2196
+2,Zanele,Ndlovu,zanele.ndlovu@outlook.com,27823456789,0105228901084,2024/11/20,2001/05/22,45 Beach Road,Hillbrow,Johannesburg,Gauteng,2001
+3,Pieter,van der Merwe,pieter.vdm@yahoo.com,27824567890,8.50711E+12,2023/06/10,1985/07/10,78 Oak Avenue,Camps Bay,Cape Town,Western Cape,8005
+4,Naledi,Khumalo,,27825678901,9.80112E+12,2024/11/28,1998/01/12,23 Victoria Street,Sunnyside,Pretoria,Gauteng,0002
+5,Johan,Botha,johan.botha@gmail.com,0826789012,7.80615E+12,2022/03/20,1978/06/14,156 Main Road,Durban North,Durban,KwaZulu-Natal,4051
+6,Lerato,Moloi,lerato.moloi@webmail.co.za,27827890123,0209208765081,2024/11/25,2002/09/20,,Berea,Johannesburg,Gauteng,2198
+7,Andries,Pretorius,andries.p@gmail.com,,6.91226E+12,2020/12/25,1969/12/25,34 Long Street,Soshanguve,Pretoria,Gauteng,0152
+8,Nomsa,Dlamini,nomsa.dlamini@yahoo.com,27829012345,8.70318E+12,2024/01/15,1987/03/17,67 Park Road,Rosebank,Johannesburg,Gauteng,2196
+9,Francois,du Toit,francois.dt@outlook.com,0820123456,9.10511E+12,2024/10/30,1991/05/10,91 High Street,Bloemfontein Central,Bloemfontein,Free State,9301
+10,Sibusiso,Mahlangu,sibu.mahlangu@gmail.com,27821345678,0312054321089,2024/11/22,2003/12/05,12 Jan Smuts Ave,Alexandra,Johannesburg,Gauteng,2090
+11,Annelie,Kruger,annelie.k@webmail.co.za,0822456789,8.90819E+12,2023/09/05,1989/08/19,45 Kloof Street,Observatory,Cape Town,Western Cape,7925
+12,Mpho,Radebe,mpho.radebe@gmail.com,27823567890,9.50628E+12,2024/11/18,1995/06/28,78 Smith Street,Mamelodi,Pretoria,Gauteng,0122
+13,Conrad,Visser,,0824678901,7.5011E+12,2024/02/10,1975/01/09,23 Sunset Boulevard,Mitchells Plain,Cape Town,Western Cape,7785
+14,Thandiwe,Sithole,thandi.sithole@outlook.com,27825789012,0007154567083,2024/11/29,2000/07/15,156 Central Avenue,Tembisa,Johannesburg,Gauteng,1632
+15,Gerhard,Muller,gerhard.m@yahoo.com,0826890123,8.20413E+12,2021/11/12,1982/04/12,89 West Street,Umlazi,Durban,KwaZulu-Natal,4031
+16,Busisiwe,Nkosi,busi.nkosi@gmail.com,,9.71109E+12,2024/11/15,1997/11/08,34 Garden Route,Diepsloot,Johannesburg,Gauteng,2189
+17,Riaan,Coetzee,riaan.c@webmail.co.za,27828012345,6.60822E+12,2024/05/20,1966/08/22,67 Marine Drive,Khayelitsha,Cape Town,Western Cape,7784
+18,Noluthando,Zulu,nolu.zulu@gmail.com,0829123456,0110197890084,2024/11/26,2001/10/19,91 Nelson Mandela Drive,Chatsworth,Durban,KwaZulu-Natal,4092
+19,Christiaan,Jacobs,chris.jacobs@outlook.com,27820234567,8.81214E+12,2023/08/14,1988/12/14,12 Berg Street,Benoni,Johannesburg,Gauteng,1501
+20,Zinhle,Mthembu,,0821456789,0405063456087,2024/11/21,2004/05/06,45 Valley Road,Soweto,Johannesburg,Gauteng,1818
+21,Wilhelm,Steyn,wilhelm.s@yahoo.com,27822567890,7.90918E+12,2024/03/18,1979/09/17,78 Mountain View,Mabopane,Pretoria,Gauteng,0190
+22,Nokuthula,Buthelezi,noku.buthelezi@gmail.com,0823678901,9.60226E+12,2024/11/27,1996/02/25,,Manenberg,Cape Town,Western Cape,7764
+23,Deon,van Niekerk,deon.vn@webmail.co.za,27824789012,7.10709E+12,2022/07/22,1971/07/09,156 Ocean Drive,Phoenix,Durban,KwaZulu-Natal,4068
+24,Palesa,Mokoena,palesa.m@outlook.com,,0208176789086,2024/11/19,2002/08/17,89 Valley Street,Atteridgeville,Pretoria,Gauteng,0008
+25,Hendrik,Barnard,hendrik.b@gmail.com,0826901234,8.50612E+12,2024/01/08,1985/06/12,34 Hill Road,Nyanga,Cape Town,Western Cape,7750
+26,Lindiwe,Shabalala,lindiwe.s@yahoo.com,27827012345,0306144567089,2024/11/23,2003/06/14,56 Church Street,Ivory Park,Johannesburg,Gauteng,1685
+27,Kobus,Swanepoel,,0828123456,7.6042E+12,2023/11/30,1976/04/20,89 Pine Road,Centurion,Pretoria,Gauteng,0157
+28,Thuli,Ngwenya,thuli.ngwenya@gmail.com,27829234567,9.10908E+12,2024/10/20,1991/09/08,12 Acacia Street,Tongaat,Durban,KwaZulu-Natal,4400
+29,Jannie,Fourie,jannie.f@webmail.co.za,0820345678,8.30216E+12,2024/07/15,1983/02/15,45 Willow Lane,Stellenbosch,Cape Town,Western Cape,7600
+30,Nombuso,Dube,nombuso.dube@outlook.com,27821456789,0512096789083,2024/11/20,2005/12/09,78 Market Street,Vosloorus,Johannesburg,Gauteng,1475
+31,Gideon,Venter,,0822567890,6.90718E+12,2024/04/22,1969/07/18,23 Station Road,Witbank,Emalahleni,Mpumalanga,1035
+32,Ayanda,Zungu,ayanda.zungu@gmail.com,27823678901,9.80325E+12,2023/12/10,1998/03/25,156 Loop Street,Durban Central,Durban,KwaZulu-Natal,4001
+33,Marius,Nel,marius.nel@yahoo.com,0824789012,7.50812E+12,2024/09/05,1975/08/12,89 Heritage Street,Potchefstroom,Potchefstroom,North West,2531
+34,Precious,Mkhize,precious.m@webmail.co.za,,0111187654089,2024/11/27,2001/11/18,34 Freedom Avenue,Orange Farm,Johannesburg,Gauteng,1841
+35,Ernst,Bekker,ernst.bekker@gmail.com,0826012345,8.1061E+12,2022/05/18,1981/06/09,67 Railway Street,George,George,Western Cape,6530
+36,Sindisiwe,Maseko,sindi.maseko@outlook.com,27827123456,9.40712E+12,2024/11/15,1994/07/12,91 Rivonia Road,Katlehong,Johannesburg,Gauteng,1431
+37,Charl,Strydom,,0828234567,7.20215E+12,2024/06/12,1972/02/14,12 Mountain Drive,Hermanus,Hermanus,Western Cape,7200
+38,Nompumelelo,Ngubane,nompume@gmail.com,27829345678,0608256789082,2024/11/24,2006/08/25,45 Industrial Road,Thokoza,Johannesburg,Gauteng,1426
+39,Braam,Uys,braam.uys@yahoo.com,0820456789,8.81011E+12,2024/02/28,1988/10/11,78 Church Lane,Paarl,Paarl,Western Cape,7646
+40,Zama,Sithole,zama.sithole@webmail.co.za,27821567890,0204193456081,2024/11/22,2002/04/19,23 Oxford Street,Daveyton,Johannesburg,Gauteng,1520
+41,Rudolf,Booysen,rudolf.b@gmail.com,,7.70706E+12,2023/10/08,1977/07/05,156 Main Road,Kimberley Central,Kimberley,Northern Cape,8301
+42,Mbali,Cele,mbali.cele@outlook.com,0823789012,9.90509E+12,2024/11/18,1999/05/08,89 Durban Road,Umlazi,Durban,KwaZulu-Natal,4031
+43,Tiaan,Lombard,tiaan.l@yahoo.com,27824890123,8.40317E+12,2024/08/20,1984/03/16,34 Main Street,Klerksdorp,Klerksdorp,North West,2571
+44,Nosipho,Mdlalose,,0825901234,0109124567086,2024/11/28,2001/09/12,67 Albert Street,Pinetown,Durban,KwaZulu-Natal,3610
+45,Wessel,Groenewald,wessel.g@gmail.com,27827012345,7.90123E+12,2024/01/25,1979/01/23,91 Victoria Road,Port Elizabeth Central,Gqeberha,Eastern Cape,6001
+46,Zanele,Khumalo,zanele.k2@webmail.co.za,0828123456,9.20614E+12,2023/07/14,1992/06/14,12 Somerset Road,Green Point,Cape Town,Western Cape,8005
+47,Adriaan,Pieterse,adriaan.p@outlook.com,,6.8051E+12,2024/10/10,1968/05/09,45 Voortrekker Road,Parow,Cape Town,Western Cape,7500
+48,Bongani,Shezi,bongani.shezi@gmail.com,27820234567,8.60718E+12,2024/11/21,1986/07/18,78 West Street,Newcastle,Newcastle,KwaZulu-Natal,2940
+49,Annette,Ferreira,annette.f@yahoo.com,0821345678,9.30826E+12,2024/05/30,1993/08/25,23 Beach Road,Margate,Margate,KwaZulu-Natal,4275
+50,Sandile,Zwane,,27822456789,0510054567088,2024/11/26,2005/10/05,156 Church Street,Tsakane,Johannesburg,Gauteng,1548
+51,Hannes,van Zyl,hannes.vz@webmail.co.za,0823567890,7.40612E+12,2022/09/15,1974/06/12,89 Long Street,Worcester,Worcester,Western Cape,6850
+52,Thembi,Radebe,thembi.radebe@gmail.com,27824678901,9.50709E+12,2024/11/17,1995/07/09,34 Station Road,Richards Bay,Richards Bay,KwaZulu-Natal,3900
+53,Petrus,Snyman,petrus.s@outlook.com,0825789012,8.10816E+12,2024/04/18,1981/08/15,67 Market Street,Rustenburg,Rustenburg,North West,0299
+54,Nomvula,Mdladla,nomvula.m@yahoo.com,,0312286789083,2024/11/29,2003/12/28,91 King Street,Ladysmith,Ladysmith,KwaZulu-Natal,3370
+55,Francois,van Rensburg,francois.vr@gmail.com,0827012345,7.70312E+12,2023/04/20,1977/03/12,12 Paul Kruger Street,Nelspruit,Mbombela,Mpumalanga,1200
+56,Nandi,Cele,nandi.cele@webmail.co.za,27828123456,9.11206E+12,2024/11/16,1991/12/05,45 Commercial Road,Pietermaritzburg,Pietermaritzburg,KwaZulu-Natal,3201
+57,Lourens,Coetzee,,0829234567,8.50914E+12,2024/07/22,1985/09/14,78 Voortrekker Road,Vereeniging,Vereeniging,Gauteng,1939
+58,Nolwazi,Gumede,nolwazi.g@outlook.com,27820345678,0406228901089,2024/11/23,2004/06/22,23 Shepstone Street,Kokstad,Kokstad,KwaZulu-Natal,4700
+59,Werner,Oberholzer,werner.o@gmail.com,0821456789,7.60807E+12,2024/02/14,1976/08/06,156 High Street,Queenstown,Queenstown,Eastern Cape,5320
+60,Thandeka,Mthethwa,thandeka.m@yahoo.com,,9.20319E+12,2023/11/22,1992/03/19,89 Soldiers Way,Grahamstown,Makhanda,Eastern Cape,6139
+61,Kobus,Steenkamp,kobus.st@webmail.co.za,27823678901,8.70511E+12,2024/09/10,1987/05/11,34 Church Street,Bethlehem,Bethlehem,Free State,9700
+62,Xoliswa,Jali,xoli.jali@gmail.com,0824789012,0208086789084,2024/11/20,2002/08/08,67 Oxford Street,East London Central,East London,Eastern Cape,5201
+63,Dirk,Rossouw,dirk.r@outlook.com,27825890123,7.90723E+12,2024/06/05,1979/07/22,91 Monument Road,Krugersdorp,Krugersdorp,Gauteng,1739
+64,Nozipho,Nkomo,nozi.nkomo@yahoo.com,,9.81012E+12,2024/11/28,1998/10/12,12 Mangosuthu Highway,Chatsworth,Durban,KwaZulu-Natal,4092
+65,Anton,Viljoen,anton.v@gmail.com,0827123456,8.2021E+12,2023/08/28,1982/02/09,45 Main Street,Upington,Upington,Northern Cape,8800
+66,Nosimilo,Zwane,nosimilo.z@webmail.co.za,27828234567,0107154567085,2024/11/24,2001/07/15,78 Commissioner Street,Boksburg,Johannesburg,Gauteng,1459
+67,Johannes,Pretorius,johannes.p@outlook.com,0829345678,7.50418E+12,2024/03/12,1975/04/18,23 Voortrekker Street,Middelburg,Middelburg,Mpumalanga,1050
+68,Siphokazi,Mnguni,sipho.mnguni@gmail.com,,9.60606E+12,2024/11/19,1996/06/06,156 Loop Street,Polokwane,Polokwane,Limpopo,0699
+69,Gert,Nel,gert.nel@yahoo.com,27821567890,8.81123E+12,2024/01/30,1988/11/22,89 Bosman Street,Pretoria Central,Pretoria,Gauteng,0002
+70,Ntokozo,Hlongwane,ntokozo.h@webmail.co.za,0822678901,0309133456088,2024/11/21,2003/09/13,34 Randles Road,Sydenham,Durban,KwaZulu-Natal,4091
+71,Henk,Erasmus,,27823789012,7.10205E+12,2022/12/05,1971/02/05,67 Loop Street,Oudtshoorn,Oudtshoorn,Western Cape,6620
+72,Lungile,Ngcobo,lungile.n@gmail.com,0824890123,9.40922E+12,2024/11/15,1994/09/21,91 Jules Street,Malvern,Johannesburg,Gauteng,2092
+73,Stefan,Labuschagne,stefan.l@outlook.com,27825901234,8.00708E+12,2024/07/08,1980/07/08,12 Anderson Street,Tzaneen,Tzaneen,Limpopo,0850
+74,Bongiwe,Hadebe,bongi.hadebe@yahoo.com,0827012345,0111265432087,2024/11/27,2001/11/26,45 Russell Street,Morningside,Durban,KwaZulu-Natal,4001
+75,Gideon,Bosman,,27828123456,7.60819E+12,2024/04/25,1976/08/19,78 De Wet Street,Schweizer-Reneke,Schweizer-Reneke,North West,2780
+76,Hlengiwe,Dlamini,hleng.dlamini@gmail.com,0829234567,9.50315E+12,2023/06/18,1995/03/14,23 Umgeni Road,Morningside,Durban,KwaZulu-Natal,4001
+77,Riaan,Barnard,riaan.b@webmail.co.za,27820345678,8.40607E+12,2024/11/14,1984/06/06,156 Rissik Street,Johannesburg Central,Johannesburg,Gauteng,2001
+78,Simphiwe,Myeni,,0821456789,0206192345085,2024/11/22,2002/06/19,89 Chris Hani Road,KwaMashu,Durban,KwaZulu-Natal,4360
+79,Gustav,Muller,gustav.m@outlook.com,27822567890,7.90518E+12,2024/09/20,1979/05/17,34 Voortrekker Road,Montagu,Montagu,Western Cape,6720
+80,Nontobeko,Mncube,nonto.m@gmail.com,0823678901,9.80704E+12,2024/11/18,1998/07/04,67 Bellairs Road,Woodlands,Durban,KwaZulu-Natal,4004
+81,Jacobus,Kruger,jacobus.k@yahoo.com,,7.20708E+12,2023/10/22,1972/07/08,91 Landdros Mare Street,Polokwane Central,Polokwane,Limpopo,0700
+82,Zanele,Magubane,zanele.m3@webmail.co.za,27825890123,0412176789084,2024/11/25,2004/12/17,12 Victoria Embankment,Durban Central,Durban,KwaZulu-Natal,4001
+83,Hendrik,Terblanche,hendrik.t@gmail.com,0827012345,8.10314E+12,2024/05/15,1981/03/14,45 Kerk Street,Cradock,Cradock,Eastern Cape,5880
+84,Thobile,Ngwenya,thobile.n@outlook.com,27828123456,9.20825E+12,2024/11/17,1992/08/25,78 Main Road,Claremont,Cape Town,Western Cape,7708
+85,Danie,Steyn,danie.s@yahoo.com,0829234567,7.50611E+12,2024/08/12,1975/06/11,23 Murray Street,Grahamstown,Makhanda,Eastern Cape,6139
+86,Busisiwe,Zuma,,27820345678,0510088901083,2024/11/28,2005/10/08,156 Pixley ka Seme Street,Durban Central,Durban,KwaZulu-Natal,4001
+87,Ruan,Venter,ruan.v@gmail.com,0821456789,8.80907E+12,2024/03/28,1988/09/06,89 Voortrekker Road,Oudtshoorn,Oudtshoorn,Western Cape,6625
+88,Nokwanda,Zondi,nokwanda.z@webmail.co.za,27822567890,9.61112E+12,2023/12/20,1996/11/12,34 Dorothy Nyembe Street,Durban Central,Durban,KwaZulu-Natal,4001
+89,Albertus,Vos,albertus.v@outlook.com,,8.10419E+12,2024/11/16,1981/04/18,67 Dorp Street,Stellenbosch,Stellenbosch,Western Cape,7600
+90,Phumzile,Sibeko,phumzi.s@gmail.com,0824789012,0308042345088,2024/11/21,2003/08/04,91 Masabalala Yengwa Avenue,Durban Central,Durban,KwaZulu-Natal,4001
+91,Tertius,Fourie,tertius.f@yahoo.com,27825890123,7.7021E+12,2024/07/30,1977/02/09,12 Voortrekker Road,Beaufort West,Beaufort West,Western Cape,6970
+92,Noluyanda,Khoza,nolu.khoza@webmail.co.za,0827012345,9.10512E+12,2024/11/19,1991/05/12,45 Bree Street,Cape Town Central,Cape Town,Western Cape,8001
+93,Ignatius,Mostert,,27828123456,8.60722E+12,2024/04/08,1986/07/22,78 Mark Street,Kimberley North,Kimberley,Northern Cape,8301
+94,Sibongile,Mathebula,sibon.m@outlook.com,0829234567,0209156789085,2024/11/26,2002/09/15,23 Trichardt Road,Meyerton,Meyerton,Gauteng,1960
+95,Morne,Schoeman,morne.s@gmail.com,27820345678,8.30812E+12,2023/09/12,1983/08/12,156 Mark Street,Pretoria Central,Pretoria,Gauteng,0002
+96,Nomathemba,Buthelezi,noma.b@yahoo.com,0821456789,9.40309E+12,2024/11/15,1994/03/08,89 Anton Lembede Street,Durban Central,Durban,KwaZulu-Natal,4001
+97,Willem,Jordaan,willem.j@webmail.co.za,,7.80116E+12,2024/06/28,1978/01/16,34 Voortrekker Road,Paarl East,Paarl,Western Cape,7646
+98,Asanda,Dladla,asanda.d@gmail.com,27823678901,0107193456082,2024/11/23,2001/07/19,67 Stamford Hill Road,Durban North,Durban,KwaZulu-Natal,4051
+99,Johannes,Kruger,johannes.k@outlook.com,0824789012,7.40915E+12,2024/02/22,1974/09/14,91 Paul Kruger Street,Potchefstroom Central,Potchefstroom,North West,2520
+100,Nokubonga,Masondo,noku.masondo@yahoo.com,27825890123,9.91206E+12,2024/11/20,1999/12/06,12 Inanda Road,Phoenix,Durban,KwaZulu-Natal,4068
+101,Schalk,Engelbrecht,,0827012345,8.21103E+12,2023/11/08,1982/11/03,45 Adderley Street,Cape Town Central,Cape Town,Western Cape,8001
+102,Ntombifuthi,Zungu,ntombi.z@gmail.com,27828123456,0408124567086,2024/11/27,2004/08/12,78 Argyle Road,Morningside,Durban,KwaZulu-Natal,4001
+103,Andre,Stander,andre.st@webmail.co.za,0829234567,7.90926E+12,2024/05/18,1979/09/25,23 Heerengracht,Cape Town Central,Cape Town,Western Cape,8001
+104,Thandiwe,Gumede,thandi.g2@outlook.com,27820345678,9.1061E+12,2024/11/14,1991/06/09,156 Sydenham Road,Overport,Durban,KwaZulu-Natal,4091
+105,Marthinus,Louw,marthinus.l@gmail.com,0821456789,7.60318E+12,2024/08/25,1976/03/18,89 Long Street,Cape Town Central,Cape Town,Western Cape,8001
+106,Zodwa,Hadebe,zodwa.h@yahoo.com,,0211088901081,2024/11/24,2002/11/08,34 Vuna Road,Inanda,Durban,KwaZulu-Natal,4310
+107,Riaan,Meyer,riaan.m@webmail.co.za,27823678901,8.50807E+12,2024/03/05,1985/08/07,67 Church Street,Cape Town Central,Cape Town,Western Cape,8001
+108,Sithembile,Ntuli,sithembi.n@gmail.com,0824789012,9.70714E+12,2023/07/28,1997/07/14,91 Manning Road,Durban Central,Durban,KwaZulu-Natal,4001
+109,Wynand,Verster,wynand.v@outlook.com,27825890123,7.10523E+12,2024/11/13,1971/05/22,12 Strand Street,Cape Town Central,Cape Town,Western Cape,8001
+110,Nelisiwe,Ngcobo,neli.ngcobo@yahoo.com,0827012345,0312106789084,2024/11/22,2003/12/10,45 Avondale Road,Morningside,Durban,KwaZulu-Natal,4001
+111,Theunis,Fourie,theunis.f@webmail.co.za,,8.40609E+12,2024/07/02,1984/06/08,78 Parliament Street,Cape Town Central,Cape Town,Western Cape,8001
+112,Nombuso,Zondi,nombuso.z2@gmail.com,27829234567,9.50916E+12,2024/11/18,1995/09/16,23 Alice Street,Pinetown,Durban,KwaZulu-Natal,3610
+113,Pierre,Basson,pierre.b@outlook.com,0820345678,8.00714E+12,2023/10/15,1980/07/14,156 Wale Street,Cape Town Central,Cape Town,Western Cape,8001
+114,Thokozani,Mdluli,thoko.m@gmail.com,27821456789,0506058901082,2024/11/29,2005/06/05,89 Spine Road,Chatsworth,Durban,KwaZulu-Natal,4092
+115,Kobus,Rossouw,kobus.r@yahoo.com,0822567890,7.80211E+12,2024/04/12,1978/02/11,34 Burg Street,Cape Town Central,Cape Town,Western Cape,8001
+116,Phindile,Khumalo,phindi.k@webmail.co.za,,9.20806E+12,2024/11/17,1992/08/05,67 Sandile Thusi Road,Durban Central,Durban,KwaZulu-Natal,4001
+117,Gerrit,Bezuidenhout,gerrit.b@gmail.com,27824789012,7.50709E+12,2024/09/08,1975/07/09,91 Buitengracht Street,Cape Town Central,Cape Town,Western Cape,8001
+118,Nonhlanhla,Kekana,nonhla.k@outlook.com,0825890123,0409186789085,2024/11/25,2004/09/18,12 Rossburgh Road,Rossburgh,Durban,KwaZulu-Natal,4094
+119,Theo,Geldenhuys,theo.g@yahoo.com,27827012345,8.11016E+12,2024/06/20,1981/10/16,45 St Georges Mall,Cape Town Central,Cape Town,Western Cape,8001
+120,Zandile,Shabalala,zandile.s2@webmail.co.za,0828123456,9.31112E+12,2023/12/01,1993/11/12,78 Prince Edward Street,Durban Central,Durban,KwaZulu-Natal,4001
+121,Dawie,Schoeman,,27829234567,7.70305E+12,2024/11/15,1977/03/05,23 Loop Street,Cape Town Central,Cape Town,Western Cape,8001
+122,Thandeka,Shange,thandi.shange@gmail.com,0820345678,9.60507E+12,2024/11/21,1996/05/07,156 South Coast Road,Durban South,Durban,KwaZulu-Natal,4004
+123,Rudolf,du Preez,rudolf.dp@outlook.com,27821456789,8.30818E+12,2024/08/28,1983/08/17,89 Bree Street,Cape Town Central,Cape Town,Western Cape,8001
+124,Nompilo,Ndaba,nompilo.n@yahoo.com,0822567890,0207128901087,2024/11/26,2002/07/12,34 Shepstone Road,Durban Central,Durban,KwaZulu-Natal,4001
+125,Marius,van Tonder,marius.vt@webmail.co.za,27823678901,7.60422E+12,2024/05/05,1976/04/22,67 Shortmarket Street,Cape Town Central,Cape Town,Western Cape,8001
+126,Ayanda,Mthembu,ayanda.m2@gmail.com,,9.10819E+12,2024/11/19,1991/08/19,91 Umbilo Road,Umbilo,Durban,KwaZulu-Natal,4001
+127,Wessel,Pieterse,wessel.p@outlook.com,0825890123,8.50307E+12,2023/08/18,1985/03/06,12 Strand Street,Cape Town Central,Cape Town,Western Cape,8001
+128,Nomvula,Mtshali,nomvula.m2@yahoo.com,27827012345,0311264567089,2024/11/23,2003/11/26,45 Gale Street,Durban Central,Durban,KwaZulu-Natal,4001
+129,Hendrik,Smit,hendrik.s@webmail.co.za,0828123456,7.40909E+12,2024/03/22,1974/09/08,78 Long Street,Cape Town Central,Cape Town,Western Cape,8001
+130,Siphiwe,Mahlangu,siphiwe.m@gmail.com,27829234567,9.91211E+12,2024/11/20,1999/12/11,23 Ordinance Road,Durban Central,Durban,KwaZulu-Natal,4001
+131,Lourens,Marais,,0820345678,8.20606E+12,2024/07/15,1982/06/05,156 Kloof Street,Cape Town Central,Cape Town,Western Cape,8001
+132,Noluthando,Dube,nolu.dube@outlook.com,27821456789,0508082345086,2024/11/27,2005/08/08,89 Point Road,Durban Central,Durban,KwaZulu-Natal,4001
+133,Anton,Labuschagne,anton.l@gmail.com,0822567890,7.90712E+12,2024/04/30,1979/07/12,34 Orange Street,Cape Town Central,Cape Town,Western Cape,8001
+134,Thuli,Nkabinde,thuli.n@yahoo.com,27823678901,9.20416E+12,2024/11/16,1992/04/16,67 Albert Park Drive,Durban North,Durban,KwaZulu-Natal,4051
+135,Nico,Botha,nico.b@webmail.co.za,0824789012,7.5081E+12,2023/11/25,1975/08/09,91 Waterkant Street,Cape Town Central,Cape Town,Western Cape,8001
+136,Lindiwe,Molefe,lindi.molefe@gmail.com,,0412057654084,2024/11/24,2004/12/05,12 Connaught Road,Durban Central,Durban,KwaZulu-Natal,4001
+137,Fanie,Venter,fanie.v@outlook.com,27826890123,8.11119E+12,2024/09/18,1981/11/18,45 Shortmarket Street,Cape Town Central,Cape Town,Western Cape,8001
+138,Ncobile,Mazibuko,ncobile.m@yahoo.com,0827012345,9.80712E+12,2024/11/18,1998/07/12,78 Broad Street,Durban Central,Durban,KwaZulu-Natal,4001
+139,Gerhardus,Prinsloo,gerhardus.p@webmail.co.za,27828123456,7.60315E+12,2024/06/08,1976/03/14,23 Church Street,Cape Town Central,Cape Town,Western Cape,8001
+140,Nomsa,Nhlabathi,nomsa.n2@gmail.com,0829234567,0309066789087,2024/11/22,2003/09/06,156 Russell Street,Durban Central,Durban,KwaZulu-Natal,4001
+141,Petrus,Kruger,petrus.k@outlook.com,,7.20611E+12,2024/02/18,1972/06/11,89 Strand Street,Cape Town Central,Cape Town,Western Cape,8001
+142,Zama,Ngubane,zama.n@yahoo.com,27821567890,9.5111E+12,2024/11/19,1995/11/09,34 Griffiths Mxenge Highway,Durban Central,Durban,KwaZulu-Natal,4001
+143,Ernst,Nel,ernst.n@webmail.co.za,0822678901,8.40408E+12,2023/09/28,1984/04/08,67 Buitenkant Street,Cape Town Central,Cape Town,Western Cape,8001
+144,Nompumelelo,Zwane,nompume.z@gmail.com,27823789012,0106124567081,2024/11/28,2001/06/12,91 Dr Yusuf Dadoo Street,Durban Central,Durban,KwaZulu-Natal,4001
+145,Stephanus,Visser,stephanus.v@outlook.com,0824890123,7.80918E+12,2024/05/25,1978/09/17,12 Castle Street,Cape Town Central,Cape Town,Western Cape,8001
+146,Sibongiseni,Sithole,sibongi.s@yahoo.com,27825901234,9.60306E+12,2024/11/17,1996/03/06,45 Joe Slovo Street,Durban Central,Durban,KwaZulu-Natal,4001
+147,Willem,Scheepers,,0827012345,7.10705E+12,2024/08/05,1971/07/05,78 Parliament Street,Cape Town Central,Cape Town,Western Cape,8001
+148,Buhle,Khanyile,buhle.k@webmail.co.za,27828123456,0211123456089,2024/11/25,2002/11/12,23 Smith Street,Durban Central,Durban,KwaZulu-Natal,4001
+149,Johannes,Marais,johannes.m@gmail.com,0829234567,8.50214E+12,2024/03/15,1985/02/14,156 Dorp Street,Cape Town Central,Cape Town,Western Cape,8001
+150,Thando,Mngomezulu,thando.m@outlook.com,27820345678,9.40809E+12,2023/12/12,1994/08/09,89 Margaret Mncadi Avenue,Durban Central,Durban,KwaZulu-Natal,4001
+151,Cobus,Potgieter,cobus.p@yahoo.com,,7.90513E+12,2024/11/14,1979/05/12,34 Loop Street,Cape Town Central,Cape Town,Western Cape,8001
+152,Nokwethemba,Mdlalose,nokwe.m@webmail.co.za,27822567890,0507086789084,2024/11/21,2005/07/08,67 Clare Road,Durban Central,Durban,KwaZulu-Natal,4001
+153,Andries,van der Walt,andries.vdw@gmail.com,0823678901,7.60208E+12,2024/07/28,1976/02/08,91 Waterkant Street,Cape Town Central,Cape Town,Western Cape,8001
+154,Ntokozo,Cele,ntokozo.c@outlook.com,27824789012,9.10916E+12,2024/11/18,1991/09/16,12 Monty Naicker Road,Durban Central,Durban,KwaZulu-Natal,4001
+155,Jacobus,Maritz,jacobus.m@yahoo.com,0825890123,8.30806E+12,2024/04/20,1983/08/05,45 Hout Street,Cape Town Central,Cape Town,Western Cape,8001
+156,Sinethemba,Buthelezi,sine.b@webmail.co.za,,0412113456082,2024/11/26,2004/12/11,78 Govan Mbeki Avenue,Durban Central,Durban,KwaZulu-Natal,4001
+157,Adriaan,Vermaak,adriaan.v@gmail.com,27827123456,7.70112E+12,2023/10/30,1977/01/12,23 Bree Street,Cape Town Central,Cape Town,Western Cape,8001
+158,Khanyi,Mthethwa,khanyi.m@outlook.com,0828234567,9.30509E+12,2024/11/15,1993/05/08,156 Masabalala Yengwa Avenue,Durban Central,Durban,KwaZulu-Natal,4001
+159,Cornelius,Swart,cornelius.s@yahoo.com,27829345678,7.50817E+12,2024/09/02,1975/08/16,89 St Georges Street,Cape Town Central,Cape Town,Western Cape,8001
+160,Zanele,Mdlalose,zanele.m4@webmail.co.za,0820456789,0208123456087,2024/11/23,2002/08/12,34 Somtseu Road,Durban Central,Durban,KwaZulu-Natal,4001
+161,Wynand,Taljaard,,27821567890,8.10909E+12,2024/06/15,1981/09/08,67 Long Street,Cape Town Central,Cape Town,Western Cape,8001
+162,Ntombikayise,Ngubane,ntombi.n@gmail.com,0822678901,9.70614E+12,2024/11/19,1997/06/14,91 West Street,Durban Central,Durban,KwaZulu-Natal,4001
+163,Schalk,Barnard,schalk.b@outlook.com,27823789012,7.4041E+12,2024/02/28,1974/04/09,12 Heerengracht,Cape Town Central,Cape Town,Western Cape,8001
+164,Nomonde,Mkhize,nomonde.m@yahoo.com,0824890123,0311052345088,2024/11/27,2003/11/05,45 Gardiner Street,Durban Central,Durban,KwaZulu-Natal,4001
+165,Dirk,Schoeman,dirk.s@webmail.co.za,27825901234,8.60708E+12,2023/08/08,1986/07/07,78 Waterkant Street,Cape Town Central,Cape Town,Western Cape,8001
+166,Lungiswa,Zulu,lungi.zulu@gmail.com,0827012345,9.51208E+12,2024/11/16,1995/12/08,23 Sydney Road,Durban Central,Durban,KwaZulu-Natal,4001
+167,Morne,Liebenberg,,27828123456,7.80312E+12,2024/05/12,1978/03/12,156 Burg Street,Cape Town Central,Cape Town,Western Cape,8001
+168,Thobile,Nkosi,thobile.n2@outlook.com,0829234567,0409067654089,2024/11/24,2004/09/06,89 Anton Lembede Street,Durban Central,Durban,KwaZulu-Natal,4001
+169,Johan,van Rooyen,johan.vr@yahoo.com,27820345678,7.60914E+12,2024/08/22,1976/09/14,34 Church Street,Cape Town Central,Cape Town,Western Cape,8001
+170,Nombulelo,Gumede,nombu.g@webmail.co.za,0821456789,9.20712E+12,2024/11/18,1992/07/12,67 Albert Road,Durban Central,Durban,KwaZulu-Natal,4001
+171,Kobus,Senekal,kobus.s@gmail.com,,8.50609E+12,2024/03/08,1985/06/08,91 Long Street,Cape Town Central,Cape Town,Western Cape,8001
+172,Busisiwe,Radebe,busi.radebe@outlook.com,27823678901,0111097890087,2024/11/29,2001/11/09,12 Broad Street,Durban Central,Durban,KwaZulu-Natal,4001
+173,Theuns,Meyer,theuns.m@yahoo.com,0824789012,7.90211E+12,2024/07/18,1979/02/11,45 Shortmarket Street,Cape Town Central,Cape Town,Western Cape,8001
+174,Sne,Nkabinde,sne.n@webmail.co.za,27825890123,9.61005E+12,2023/11/15,1996/10/05,78 Old Fort Road,Durban Central,Durban,KwaZulu-Natal,4001
+175,Francois,de Wet,francois.dw@gmail.com,0827012345,8.40818E+12,2024/11/13,1984/08/17,23 Strand Street,Cape Town Central,Cape Town,Western Cape,8001
+176,Nonkululeko,Zondi,nonku.z@outlook.com,27828123456,0306084567085,2024/11/21,2003/06/08,156 Pixley ka Seme Street,Durban Central,Durban,KwaZulu-Natal,4001
+177,Henning,Botha,henning.b@yahoo.com,,7.10706E+12,2024/04/25,1971/07/06,89 Buitengracht Street,Cape Town Central,Cape Town,Western Cape,8001
+178,Zinhle,Hadebe,zinhle.h@webmail.co.za,0820234567,9.81112E+12,2024/11/19,1998/11/12,34 Field Street,Durban Central,Durban,KwaZulu-Natal,4001
+179,Andre,Grobler,andre.g@gmail.com,27821345678,8.30309E+12,2024/09/12,1983/03/08,67 Loop Street,Cape Town Central,Cape Town,Western Cape,8001
+180,Nolwandle,Mncube,nolwandle.m@outlook.com,0822456789,0510064567082,2024/11/26,2005/10/06,91 Dr Pixley KaSeme Street,Durban Central,Durban,KwaZulu-Natal,4001
+181,Rudolf,Coetzee,rudolf.c@yahoo.com,27823567890,7.6051E+12,2023/12/22,1976/05/09,12 Waterkant Street,Cape Town Central,Cape Town,Western Cape,8001
+182,Sizakele,Zungu,siza.zungu@webmail.co.za,0824678901,9.30812E+12,2024/11/15,1993/08/12,45 Chris Hani Road,Durban Central,Durban,KwaZulu-Natal,4001
+183,Gert,Barnard,,27825789012,7.90414E+12,2024/06/30,1979/04/14,78 Long Street,Cape Town Central,Cape Town,Western Cape,8001
+184,Ntombekhaya,Shabalala,ntombe.s@gmail.com,0827012345,0207086789085,2024/11/23,2002/07/08,23 Berea Road,Durban Central,Durban,KwaZulu-Natal,4001
+185,Pieter,Lamprecht,pieter.l@outlook.com,27828123456,8.10904E+12,2024/08/08,1981/09/04,156 Bree Street,Cape Town Central,Cape Town,Western Cape,8001
+186,Phindile,Ngcobo,phindi.n@yahoo.com,0829234567,9.41206E+12,2024/11/17,1994/12/06,89 Stamford Hill Road,Durban Central,Durban,KwaZulu-Natal,4001
+187,Wessel,van der Merwe,wessel.vdm@webmail.co.za,27820345678,7.50808E+12,2024/05/20,1975/08/07,34 Church Street,Cape Town Central,Cape Town,Western Cape,8001
+188,Nomfundo,Mthembu,nomfundo.m@gmail.com,0821456789,0311123456084,2024/11/24,2003/11/12,67 Langalibalele Street,Durban Central,Durban,KwaZulu-Natal,4001
+189,Kallie,Kruger,kallie.k@outlook.com,,8.60706E+12,2023/10/08,1986/07/05,91 Strand Street,Cape Town Central,Cape Town,Western Cape,8001
+190,Ayanda,Cele,ayanda.c@yahoo.com,27823678901,9.50908E+12,2024/11/18,1995/09/08,12 Masabalala Yengwa Avenue,Durban Central,Durban,KwaZulu-Natal,4001
+191,Thinus,Potgieter,thinus.p@webmail.co.za,0824789012,7.70214E+12,2024/03/18,1977/02/14,45 Loop Street,Cape Town Central,Cape Town,Western Cape,8001
+192,Sbahle,Dlamini,sbahle.d@gmail.com,27825890123,0408097654081,2024/11/27,2004/08/09,78 Point Road,Durban Central,Durban,KwaZulu-Natal,4001
+193,Gideon,Swanepoel,gideon.s@outlook.com,0827012345,8.20411E+12,2024/07/05,1982/04/11,23 Shortmarket Street,Cape Town Central,Cape Town,Western Cape,8001
+194,Nokuthula,Hadebe,noku.hadebe@yahoo.com,27828123456,9.70609E+12,2024/11/16,1997/06/08,156 Essenwood Road,Berea,Durban,KwaZulu-Natal,4001
+195,Ernst,du Toit,ernst.dt@webmail.co.za,,7.40108E+12,2024/04/15,1974/01/08,89 Bree Street,Cape Town Central,Cape Town,Western Cape,8001
+196,Thabisile,Ngubane,thabi.n@gmail.com,0820234567,0112063456087,2024/11/28,2001/12/06,34 Monty Naicker Road,Durban Central,Durban,KwaZulu-Natal,4001
+197,Kobus,Nel,kobus.n@outlook.com,27821345678,8.50908E+12,2023/09/22,1985/09/07,67 Loop Street,Cape Town Central,Cape Town,Western Cape,8001
+198,Nothando,Mkhize,nothando.m@yahoo.com,0822456789,9.31108E+12,2024/11/19,1993/11/08,91 Smith Street,Durban Central,Durban,KwaZulu-Natal,4001
+199,Francois,Strydom,francois.s@webmail.co.za,27823567890,7.80612E+12,2024/06/22,1978/06/12,12 Church Street,Cape Town Central,Cape Town,Western Cape,8001
+200,Mbali,Buthelezi,mbali.b@gmail.com,0824678901,0509073456088,2024/11/25,2005/09/07,45 Dr Yusuf Dadoo Street,Durban Central,Durban,KwaZulu-Natal,4001

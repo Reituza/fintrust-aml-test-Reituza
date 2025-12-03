@@ -1,0 +1,13 @@
+'use strict';
+
+/** @type {import('sequelize-cli').Migration} */
+module.exports = {
+  async up (queryInterface, Sequelize) {
+    const suburbs = ['Hillbrow', 'Yeoville', 'Berea', 'Joubert Park', 'Soweto', 'Alexandra', 'Orange Farm', 'Daveyton', 'Thembisa', 'Katlehong', 'Springs', 'Nigel', 'Diepsloot', 'Tembisa', 'Ekurhuleni'];
+    await queryInterface.bulkInsert('high_risk_suburbs', suburbs.map(suburb => ({ suburb })), {});
+  },
+
+  async down (queryInterface, Sequelize) {
+    await queryInterface.bulkDelete('high_risk_suburbs', null, {});
+  }
+};
