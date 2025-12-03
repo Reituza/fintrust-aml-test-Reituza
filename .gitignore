@@ -8,7 +8,9 @@
 .angular/
 
 # Node modules and dependency files
+
 /node_modules/
+/kyc_backend/node_modules/
 /package-lock.json
 /yarn.lock
 
