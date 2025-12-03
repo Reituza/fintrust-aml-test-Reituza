@@ -17,6 +17,9 @@ const Customer = require('./customer')(sequelize);
 const Transaction = require('./transaction')(sequelize);
 const HighRiskSuburb = require('./highRiskSuburb')(sequelize);
 
+Customer.hasMany(Transaction, { foreignKey: 'customer_id' });
+Transaction.belongsTo(Customer, { foreignKey: 'customer_id' });
+
 module.exports = {
   sequelize,
   Customer,

@@ -1,6 +1,6 @@
 // Handles transaction-related API operations and suspicious rule checks
-const { Transaction, Customer, HighRiskSuburb } = require('../models');
-const { sequelize } = require('../models');
+const { Transaction, Customer, HighRiskSuburb, sequelize } = require('../models');
+const { Op } = require('sequelize');
 
 exports.createTransaction = async (req, res) => {
   const { customer_id, amount, destination_suburb } = req.body;
@@ -61,7 +61,7 @@ exports.getAlerts = async (req, res) => {
     const recentTxns = await Transaction.findAll({
       where: {
         customer_id: txn.customer_id,
-        created_at: { [require('sequelize').Op.gte]: last24h }
+        created_at: { [Op.gte]: last24h }
       }
     });
 
