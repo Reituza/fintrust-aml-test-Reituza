@@ -30,7 +30,7 @@
       <tbody>
         <tr *ngFor="let alert of alerts">
           <td>{{ alert.customer_id }}</td>
-          <td>{{ alert.amount | currency }}</td>
+          <td>{{ alert.amount | currency:'ZAR':'symbol':'1.2-2' }}</td>
           <td>{{ alert.destination_suburb }}</td>
           <td>{{ alert.reasons }}</td>
         </tr>

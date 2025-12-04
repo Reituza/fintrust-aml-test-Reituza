@@ -15,16 +15,13 @@ export class DashboardComponent implements OnInit {
   constructor(private apiService: ApiService) {}
 
   ngOnInit(): void {
-    console.log('Dashboard component initialized');
     this.loadAlerts();
     this.loadCustomers();
   }
 
   loadAlerts(): void {
-    console.log('Loading alerts...');
     this.apiService.getAlerts().subscribe(
       (data: any) => {
-        console.log('Alerts loaded:', data);
         this.alerts = data;
         this.activeAlerts = data.length;
       },
@@ -35,10 +32,8 @@ export class DashboardComponent implements OnInit {
   }
 
   loadCustomers(): void {
-    console.log('Loading customers...');
     this.apiService.getCustomers().subscribe(
       (data: any) => {
-        console.log('Customers loaded:', data);
         this.totalCustomers = data.total || data.length || 0;
       },
       (error: any) => {

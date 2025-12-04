@@ -19,6 +19,17 @@ app.use(express.json());
 
 app.use('/', routes);
 
+// 404 handler
+app.use((req, res) => {
+  res.status(404).json({ error: 'Not Found', method: req.method, path: req.path });
+});
+
+// Error handler
+app.use((err, req, res, next) => {
+  console.error(err);
+  res.status(500).json({ error: err.message });
+});
+
 const PORT = process.env.PORT || 3000;
 
 sequelize.sync({ alter: false }).then(() => {
