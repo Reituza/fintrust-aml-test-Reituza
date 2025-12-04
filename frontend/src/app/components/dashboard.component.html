@@ -1,0 +1,41 @@
+<div class="container mt-3">
+  <h1>FinTrust KYC Dashboard</h1>
+  
+  <div class="grid grid-3 mt-3">
+    <div class="card text-center">
+      <h3>Total Customers</h3>
+      <p class="text-muted">{{ totalCustomers }}</p>
+    </div>
+    <div class="card text-center">
+      <h3>Active Alerts</h3>
+      <p class="text-muted">{{ activeAlerts }}</p>
+    </div>
+    <div class="card text-center">
+      <h3>Total Transactions</h3>
+      <p class="text-muted">{{ totalTransactions }}</p>
+    </div>
+  </div>
+
+  <div class="card mt-3">
+    <h2>Recent Alerts</h2>
+    <table class="table mt-2">
+      <thead>
+        <tr>
+          <th>Customer ID</th>
+          <th>Amount</th>
+          <th>Suburb</th>
+          <th>Rules Triggered</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let alert of alerts">
+          <td>{{ alert.customer_id }}</td>
+          <td>{{ alert.amount | currency }}</td>
+          <td>{{ alert.destination_suburb }}</td>
+          <td>{{ alert.reasons }}</td>
+        </tr>
+      </tbody>
+    </table>
+    <p *ngIf="alerts.length === 0" class="text-muted mt-2">No alerts at this time.</p>
+  </div>
+</div>

@@ -1,6 +1,6 @@
 # FinTrust KYC: Suspicious Transaction Flagger
 
-Full-stack application to identify potentially fraudulent transactions using 5 business rules. Backend: Node.js/Express/Sequelize. Frontend: Angular with flat design. Database: PostgreSQL. Containerized with Docker.
+Full-stack application to identify potentially fraudulent transactions using 5 business rules. Backend: Node.js/Express/Sequelize. Frontend: Angular. Database: PostgreSQL. Containerized with Docker.
 
 ## Quick Start
 
@@ -98,17 +98,6 @@ Tables:
 - `transactions` - Transaction records
 - `high_risk_suburbs` - 15 pre-seeded high-risk locations
 
-## Features
-
-✅ RESTful API with 5 endpoints  
-✅ 5 business rule detection  
-✅ Input validation & error handling  
-✅ Database migrations  
-✅ 15 test cases with >85% coverage  
-✅ Docker containerization  
-✅ Angular frontend with real-time dashboard  
-✅ Clean flat design UI  
-✅ Global SCSS styling
 
 ## Build & Deploy
 
