@@ -1,0 +1,35 @@
+<div class="container mt-3">
+  <div class="header">
+    <h1>Customers</h1>
+    <input
+      type="text"
+      placeholder="Search customers..."
+      (keyup)="onSearch($event)"
+      class="search-input"
+    >
+  </div>
+
+  <div class="card">
+    <table class="table">
+      <thead>
+        <tr>
+          <th>ID</th>
+          <th>Name</th>
+          <th>Email</th>
+          <th>Suburb</th>
+          <th>Total Transacted</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr *ngFor="let customer of customers">
+          <td>{{ customer.id }}</td>
+          <td>{{ customer.name }}</td>
+          <td>{{ customer.email }}</td>
+          <td>{{ customer.suburb }}</td>
+          <td>{{ customer.totalTransacted | currency }}</td>
+        </tr>
+      </tbody>
+    </table>
+    <p *ngIf="customers.length === 0" class="text-muted mt-2">No customers found.</p>
+  </div>
+</div>

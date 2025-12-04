@@ -1,0 +1,209 @@
+@import 'variables';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+  font-family: $font-family;
+  font-size: $font-size-base;
+  color: $text;
+  background: #f5f7fa;
+  line-height: 1.6;
+}
+
+button {
+  font-family: $font-family;
+  cursor: pointer;
+  border: none;
+  padding: $spacing-sm $spacing-md;
+  border-radius: $radius;
+  transition: $transition;
+  font-size: $font-size-base;
+
+  &:hover {
+    transform: translateY(-1px);
+  }
+
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+input, select, textarea {
+  font-family: $font-family;
+  border: 1px solid $border;
+  border-radius: $radius;
+  padding: $spacing-sm $spacing-md;
+  font-size: $font-size-base;
+  transition: $transition;
+
+  &:focus {
+    outline: none;
+    border-color: $secondary;
+    box-shadow: 0 0 0 3px rgba(52, 152, 219, 0.1);
+  }
+}
+
+a {
+  color: $secondary;
+  text-decoration: none;
+  transition: $transition;
+
+  &:hover {
+    color: darken($secondary, 10%);
+  }
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 $spacing-md;
+}
+
+.btn {
+  padding: $spacing-sm $spacing-lg;
+  border-radius: $radius;
+  font-size: $font-size-base;
+  font-weight: 600;
+  border: none;
+  cursor: pointer;
+  transition: $transition;
+
+  &-primary {
+    background: $secondary;
+    color: white;
+
+    &:hover {
+      background: darken($secondary, 10%);
+    }
+  }
+
+  &-success {
+    background: $success;
+    color: white;
+
+    &:hover {
+      background: darken($success, 10%);
+    }
+  }
+
+  &-danger {
+    background: $danger;
+    color: white;
+
+    &:hover {
+      background: darken($danger, 10%);
+    }
+  }
+
+  &-secondary {
+    background: $light;
+    color: $text;
+    border: 1px solid $border;
+
+    &:hover {
+      background: darken($light, 5%);
+    }
+  }
+}
+
+.card {
+  background: white;
+  border-radius: $radius;
+  padding: $spacing-lg;
+  box-shadow: $shadow;
+  transition: $transition;
+
+  &:hover {
+    box-shadow: $shadow-lg;
+  }
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+
+  th {
+    background: $light;
+    padding: $spacing-md;
+    text-align: left;
+    font-weight: 600;
+    border-bottom: 2px solid $border;
+  }
+
+  td {
+    padding: $spacing-md;
+    border-bottom: 1px solid $border;
+  }
+
+  tr:hover {
+    background: #f9fbfc;
+  }
+}
+
+.alert {
+  padding: $spacing-md $spacing-lg;
+  border-radius: $radius;
+  margin-bottom: $spacing-md;
+
+  &-warning {
+    background: #fff3cd;
+    color: #856404;
+    border: 1px solid #ffc107;
+  }
+
+  &-danger {
+    background: #f8d7da;
+    color: #721c24;
+    border: 1px solid #f5c6cb;
+  }
+
+  &-success {
+    background: #d4edda;
+    color: #155724;
+    border: 1px solid #c3e6cb;
+  }
+}
+
+.grid {
+  display: grid;
+  gap: $spacing-md;
+
+  &-2 {
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  }
+
+  &-3 {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-muted {
+  color: #7f8c8d;
+}
+
+.mt {
+  &-1 { margin-top: $spacing-sm; }
+  &-2 { margin-top: $spacing-md; }
+  &-3 { margin-top: $spacing-lg; }
+}
+
+.mb {
+  &-1 { margin-bottom: $spacing-sm; }
+  &-2 { margin-bottom: $spacing-md; }
+  &-3 { margin-bottom: $spacing-lg; }
+}
+
+.p {
+  &-1 { padding: $spacing-sm; }
+  &-2 { padding: $spacing-md; }
+  &-3 { padding: $spacing-lg; }
+}
